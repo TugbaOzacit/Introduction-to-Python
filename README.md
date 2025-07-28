@@ -39,7 +39,6 @@ Welcome to the Introduction to Python repository! This comprehensive collection 
 7. PY0101EN-2-4-Dictionaries.ipynb
 8. PY0101EN-2-5-Sets.ipynb
 9. PY0101EN-3-1-Conditions.ipynb
-10. 9-Conditions.ipynb
-11. PY0101EN-3-2-Loops.ipynb
+10. PY0101EN-3-2-Loops.ipynb
 
 **Happy Learning! **
